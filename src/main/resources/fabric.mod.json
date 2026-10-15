@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "stellarclient",
+  "version": "${version}",
+  "name": "Stellar Client",
+  "description": "Client-style pack: HUD, zoom, FPS boost preset, loot beams and username toggle.",
+  "environment": "client",
+  "mixins": ["stellarclient.mixins.json"],
+  "entrypoints": {
+    "client": ["com.example.stellarclient.StellarClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

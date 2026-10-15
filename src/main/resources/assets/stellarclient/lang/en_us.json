@@ -1,0 +1,16 @@
+{
+  "key.stellarclient.toggle_hud": "Toggle Stellar HUD",
+  "key.stellarclient.zoom": "Stellar Zoom (hold)",
+  "key.stellarclient.fps_boost": "Toggle FPS Boost",
+  "key.stellarclient.loot_beams": "Toggle Loot Beams",
+  "key.stellarclient.usernames": "Toggle Usernames",
+  "key.category.stellarclient.main": "Stellar Client",
+  "stellarclient.hud_on": "Stellar HUD: ON",
+  "stellarclient.hud_off": "Stellar HUD: OFF",
+  "stellarclient.beams_on": "Loot Beams: ON",
+  "stellarclient.beams_off": "Loot Beams: OFF",
+  "stellarclient.names_on": "Usernames: SHOWN",
+  "stellarclient.names_off": "Usernames: HIDDEN",
+  "stellarclient.boost_on": "FPS Boost: ON",
+  "stellarclient.boost_off": "FPS Boost: OFF"
+}
